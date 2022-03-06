@@ -246,7 +246,7 @@ body {
     grid-auto-rows: 2em;
     gap: .20em;
     justify-content: center;
-    margin-bottom: -4em;
+    margin-bottom: 3em;
   }
   .guess-grid {
     display: grid;
