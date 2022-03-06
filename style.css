@@ -103,7 +103,7 @@ body {
   grid-template-columns: repeat(5, 3.75em);
   grid-template-rows: repeat(6, 3.75em);
   gap: .35em;
-  margin-bottom: 1em;
+  margin-bottom: -1em;
 }
 
 .tile {
@@ -247,6 +247,7 @@ body {
     grid-auto-rows: 2em;
     gap: .20em;
     justify-content: center;
+    margin-bottom: -4em;
   }
   .guess-grid {
     display: grid;
@@ -256,7 +257,7 @@ body {
     grid-template-columns: repeat(5, 3.5em);
     grid-template-rows: repeat(6, 3.5em);
     gap: .35em;
-    margin-bottom: 1em;
+    margin-bottom: -1em;
   }
   
   .tile {
