@@ -108,7 +108,7 @@ body {
 .tile {
   font-size: 2em;
   color: white;
-  border: .03em solid hsl(240, 2%, 23%);
+  border: .09em solid hsl(240, 2%, 23%);
   text-transform: uppercase;
   font-weight: bold;
   display: flex;
@@ -260,7 +260,7 @@ body {
   .tile {
     font-size: 2em;
     color: white;
-    border: .03em solid hsl(240, 2%, 23%);
+    border: .09em solid hsl(240, 2%, 23%);
     text-transform: uppercase;
     font-weight: bold;
     display: flex;
