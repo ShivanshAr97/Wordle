@@ -248,6 +248,17 @@ body {
     gap: .20em;
     justify-content: center;
   }
+  .guess-grid {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    flex-grow: 1;
+    grid-template-columns: repeat(5, 3.5em);
+    grid-template-rows: repeat(6, 3.5em);
+    gap: .35em;
+    margin-bottom: 1em;
+  }
+  
   .tile {
     font-size: 2em;
     color: white;
