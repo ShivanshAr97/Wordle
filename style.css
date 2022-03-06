@@ -255,7 +255,6 @@ body {
     grid-template-columns: repeat(5, 3.5em);
     grid-template-rows: repeat(6, 3.5em);
     gap: .35em;
-    margin-top: -15em;
   }
   
   .tile {
